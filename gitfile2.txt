@@ -1,1 +1,1 @@
-create a file using vc and git
+create a new file using git
